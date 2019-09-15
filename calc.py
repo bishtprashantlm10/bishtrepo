@@ -1,6 +1,6 @@
-def add(x,y,z): hiadd
+def add(x,y):nooooooo
     pass
-def subtract(x,y):
+def subtract(x,y):nooooo
     pass
 def multiply(x,y,z,z,ddddddddddddd):
     return x*y
